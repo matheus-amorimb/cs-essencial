@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11PassandoArgumentosPorRefe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPratico4", "ExercicioPratico4\ExercicioPratico4.csproj", "{1812C8FC-4B35-4347-8D91-5579E06EBD6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12ArgumentosNomeados", "12ArgumentosNomeados\12ArgumentosNomeados.csproj", "{C7B18182-7AF9-4FAE-BE04-C91A058EC41A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{1812C8FC-4B35-4347-8D91-5579E06EBD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1812C8FC-4B35-4347-8D91-5579E06EBD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1812C8FC-4B35-4347-8D91-5579E06EBD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B18182-7AF9-4FAE-BE04-C91A058EC41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B18182-7AF9-4FAE-BE04-C91A058EC41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B18182-7AF9-4FAE-BE04-C91A058EC41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B18182-7AF9-4FAE-BE04-C91A058EC41A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
