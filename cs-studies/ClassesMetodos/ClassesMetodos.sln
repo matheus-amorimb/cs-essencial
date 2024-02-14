@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPratico5", "Exerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14MetodosEstaticos", "14MetodosEstaticos\14MetodosEstaticos.csproj", "{57DD0AFD-A365-467C-BC5A-D826408BDC09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15CamposEstaticos", "15CamposEstaticos\15CamposEstaticos.csproj", "{59A59B3F-AFB5-4042-AAD0-74602A53A77A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{57DD0AFD-A365-467C-BC5A-D826408BDC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57DD0AFD-A365-467C-BC5A-D826408BDC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57DD0AFD-A365-467C-BC5A-D826408BDC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A59B3F-AFB5-4042-AAD0-74602A53A77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A59B3F-AFB5-4042-AAD0-74602A53A77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A59B3F-AFB5-4042-AAD0-74602A53A77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A59B3F-AFB5-4042-AAD0-74602A53A77A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
