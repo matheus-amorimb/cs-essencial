@@ -2,5 +2,14 @@
 
 a = new int[2,2];
 
-a = new int[2 ,2 ]{{0, 1}, {2, 3}};
+foreach (var item in a)
+{
+    Console.WriteLine(item);
 
+a = new int[2 ,2 ]{{10, 20}, {30, 40}};
+
+}foreach (var item in a)
+{
+    Console.WriteLine(item);
+}
+ 
