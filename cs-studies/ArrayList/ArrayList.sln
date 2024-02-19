@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4TwoDimensionalArray", "4Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioArrayBidimensional", "ExercicioArrayBidimensional\ExercicioArrayBidimensional.csproj", "{5B56F7CD-C7C2-43BB-94CA-8A54BF88A0D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5ArrayList", "5ArrayList\5ArrayList.csproj", "{81847FD2-30F7-49FB-A664-CA94B56D9BFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{5B56F7CD-C7C2-43BB-94CA-8A54BF88A0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B56F7CD-C7C2-43BB-94CA-8A54BF88A0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B56F7CD-C7C2-43BB-94CA-8A54BF88A0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81847FD2-30F7-49FB-A664-CA94B56D9BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81847FD2-30F7-49FB-A664-CA94B56D9BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81847FD2-30F7-49FB-A664-CA94B56D9BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81847FD2-30F7-49FB-A664-CA94B56D9BFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
