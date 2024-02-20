@@ -1,15 +1,16 @@
-namespace TestProblem03;
-
-public class Tests
+public class TestProblem03
 {
-    [SetUp]
-    public void Setup()
+    [Fact]
+    public void TestSolution()
     {
-    }
+        Solution solution = new Solution();
 
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+        int[] kids = new int[] { 1, 7, 8, 10 };
+        int extraCandies = 5;
+
+        List<bool> expectedResult = new List<bool>() { false, true, true, true }; 
+        
+        Assert.Equal(expectedResult, solution.KidsWithCandies(kids, extraCandies));
     }
+    
 }
