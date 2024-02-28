@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7IEnumerable", "7IEnumerabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioListT", "ExercicioListT\ExercicioListT.csproj", "{F320BE7B-9CE0-4D86-8F1E-9492196168A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8Indexadores", "8Indexadores\8Indexadores.csproj", "{3E1EAE03-535E-4C05-8B77-46EC05D598B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{F320BE7B-9CE0-4D86-8F1E-9492196168A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F320BE7B-9CE0-4D86-8F1E-9492196168A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F320BE7B-9CE0-4D86-8F1E-9492196168A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1EAE03-535E-4C05-8B77-46EC05D598B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1EAE03-535E-4C05-8B77-46EC05D598B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1EAE03-535E-4C05-8B77-46EC05D598B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1EAE03-535E-4C05-8B77-46EC05D598B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
