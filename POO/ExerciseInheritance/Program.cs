@@ -1,21 +1,34 @@
-﻿
+﻿InvestmentAccount investmentAccount = new InvestmentAccount("Matheus");
 
-
-class Client
-{
-    public string ClientName { get; set;}
-    public Guid Guid { get;} = new Guid();
-}
+investmentAccount.Deposit(12500);
 
 class Account
 {
+    public string Name;
+    public Guid AccountId = new Guid();
+    public Account(string name)
+    {
+        Name = name;
+    }
     private double _balance = 0;
-    private double fees;
+    private double _depositFee = 0;
+    public virtual double DepositFee
+    {
+        get { return _depositFee; }
+        set { _depositFee = value; }
+    }
+    
+    private double _withdrawFee = 0;
+    public virtual double WithdrawFee
+    {
+        get { return _withdrawFee; }
+        set { _withdrawFee = value;  }
+    }
     public double Balance
     {
-        get { return _balance}
+        get { return _balance; }
     }
-
+    
     public void DisplayBalance()
     {
         Console.WriteLine($"Your current balance: ${Balance}");
@@ -23,7 +36,7 @@ class Account
 
     public void Deposit(double value)
     {
-        this._balance += value * (1 + fees);
+        this._balance += value * (1 + DepositFee);
         DisplayBalance();
     }
 
@@ -36,24 +49,59 @@ class Account
         }
         else
         {
-            this._balance -= value * (1 + fees);
+            this._balance -= value * (1 + WithdrawFee);
             DisplayBalance();
         }
     }
     
 }
-class TransactionAccount
+class TransactionAccount : Account
 {
-    
+    public TransactionAccount(string name) : base(name)
+    {
+    }
 }
 
-class SavingsAccount
+class SavingsAccount : Account
 {
+    private double _depositFee = 0.005;
+    private double _withdrawFee = 0;
+    public override double DepositFee
+    {
+        get { return _depositFee; }
+        set { _depositFee = value; }
+    }
     
+    public override double WithdrawFee
+    {
+        get { return _withdrawFee; }
+        set { _withdrawFee = value;  }
+    }
+
+    public SavingsAccount(string name) : base(name)
+    {
+    }
 }
 
-class InvestmentAccount
+class InvestmentAccount : Account
 {
+    private double _depositFee = 0.009;
+    private double _withdrawFee = 0.001;
     
+    public override double DepositFee
+    {
+        get { return _depositFee; }
+        set { _depositFee = value; }
+    }
+    
+    public override double WithdrawFee
+    {
+        get { return _withdrawFee; }
+        set { _withdrawFee = value;  }
+    }
+
+    public InvestmentAccount(string name) : base(name)
+    {
+    }
 }
 
