@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4InheritanceObject", "4Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5InheritanceNew", "5InheritanceNew\5InheritanceNew.csproj", "{D7ADAA72-4AC3-47DB-8AC2-28BE9524A956}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6InheritanceVirtualOverride", "6InheritanceVirtualOverride\6InheritanceVirtualOverride.csproj", "{654A5C2C-0C80-4DDC-9961-E620FE12FD94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{D7ADAA72-4AC3-47DB-8AC2-28BE9524A956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7ADAA72-4AC3-47DB-8AC2-28BE9524A956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7ADAA72-4AC3-47DB-8AC2-28BE9524A956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654A5C2C-0C80-4DDC-9961-E620FE12FD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654A5C2C-0C80-4DDC-9961-E620FE12FD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654A5C2C-0C80-4DDC-9961-E620FE12FD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654A5C2C-0C80-4DDC-9961-E620FE12FD94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
