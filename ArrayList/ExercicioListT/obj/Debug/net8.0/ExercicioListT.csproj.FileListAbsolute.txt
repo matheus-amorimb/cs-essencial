@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/bin/Debug/net8.0/ExercicioListT
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/bin/Debug/net8.0/ExercicioListT.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/bin/Debug/net8.0/ExercicioListT.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/bin/Debug/net8.0/ExercicioListT.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/bin/Debug/net8.0/ExercicioListT.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/refint/ExercicioListT.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ExercicioListT.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioListT/obj/Debug/net8.0/ref/ExercicioListT.dll

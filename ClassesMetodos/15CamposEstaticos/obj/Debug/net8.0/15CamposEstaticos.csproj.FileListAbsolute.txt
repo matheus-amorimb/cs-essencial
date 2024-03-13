@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/bin/Debug/net8.0/15CamposEstaticos
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/bin/Debug/net8.0/15CamposEstaticos.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/bin/Debug/net8.0/15CamposEstaticos.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/bin/Debug/net8.0/15CamposEstaticos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/bin/Debug/net8.0/15CamposEstaticos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/refint/15CamposEstaticos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/15CamposEstaticos.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/15CamposEstaticos/obj/Debug/net8.0/ref/15CamposEstaticos.dll

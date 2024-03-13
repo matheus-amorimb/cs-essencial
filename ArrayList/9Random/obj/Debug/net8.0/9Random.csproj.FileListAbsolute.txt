@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/bin/Debug/net8.0/9Random
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/bin/Debug/net8.0/9Random.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/bin/Debug/net8.0/9Random.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/bin/Debug/net8.0/9Random.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/bin/Debug/net8.0/9Random.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/refint/9Random.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/9Random.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/9Random/obj/Debug/net8.0/ref/9Random.dll

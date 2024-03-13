@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/bin/Debug/net8.0/3ModificadorParams
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/bin/Debug/net8.0/3ModificadorParams.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/bin/Debug/net8.0/3ModificadorParams.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/bin/Debug/net8.0/3ModificadorParams.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/bin/Debug/net8.0/3ModificadorParams.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/refint/3ModificadorParams.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/3ModificadorParams.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/3ModificadorParams/obj/Debug/net8.0/ref/3ModificadorParams.dll

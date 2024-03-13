@@ -1,0 +1,14 @@
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/4InheritanceObject.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/4InheritanceObject.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/4InheritanceObject.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/4InheritanceObject.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/bin/Debug/net8.0/4InheritanceObject
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/bin/Debug/net8.0/4InheritanceObject.deps.json
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/bin/Debug/net8.0/4InheritanceObject.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/bin/Debug/net8.0/4InheritanceObject.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/bin/Debug/net8.0/4InheritanceObject.pdb
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/4InheritanceObject.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/refint/4InheritanceObject.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/4InheritanceObject.pdb
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/4InheritanceObject.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/4InheritanceObject/obj/Debug/net8.0/ref/4InheritanceObject.dll

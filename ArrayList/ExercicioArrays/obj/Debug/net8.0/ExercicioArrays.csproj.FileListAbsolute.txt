@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/bin/Debug/net8.0/ExercicioArrays
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/bin/Debug/net8.0/ExercicioArrays.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/bin/Debug/net8.0/ExercicioArrays.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/bin/Debug/net8.0/ExercicioArrays.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/bin/Debug/net8.0/ExercicioArrays.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/refint/ExercicioArrays.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ExercicioArrays.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrays/obj/Debug/net8.0/ref/ExercicioArrays.dll

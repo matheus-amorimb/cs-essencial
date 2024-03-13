@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/bin/Debug/net8.0/17Propriedades
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/bin/Debug/net8.0/17Propriedades.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/bin/Debug/net8.0/17Propriedades.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/bin/Debug/net8.0/17Propriedades.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/bin/Debug/net8.0/17Propriedades.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/refint/17Propriedades.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/17Propriedades.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/17Propriedades/obj/Debug/net8.0/ref/17Propriedades.dll

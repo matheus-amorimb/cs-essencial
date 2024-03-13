@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/bin/Debug/net8.0/13ParametrosOpcionais
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/bin/Debug/net8.0/13ParametrosOpcionais.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/bin/Debug/net8.0/13ParametrosOpcionais.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/bin/Debug/net8.0/13ParametrosOpcionais.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/bin/Debug/net8.0/13ParametrosOpcionais.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/refint/13ParametrosOpcionais.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/13ParametrosOpcionais.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/13ParametrosOpcionais/obj/Debug/net8.0/ref/13ParametrosOpcionais.dll

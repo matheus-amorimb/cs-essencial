@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/bin/Debug/net8.0/19Enum
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/bin/Debug/net8.0/19Enum.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/bin/Debug/net8.0/19Enum.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/bin/Debug/net8.0/19Enum.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/bin/Debug/net8.0/19Enum.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/refint/19Enum.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/19Enum.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/19Enum/obj/Debug/net8.0/ref/19Enum.dll

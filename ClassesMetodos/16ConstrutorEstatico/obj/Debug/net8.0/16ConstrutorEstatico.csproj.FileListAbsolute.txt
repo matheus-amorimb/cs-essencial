@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net8.0/16ConstrutorEstatico
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net8.0/16ConstrutorEstatico.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net8.0/16ConstrutorEstatico.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net8.0/16ConstrutorEstatico.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net8.0/16ConstrutorEstatico.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/refint/16ConstrutorEstatico.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/16ConstrutorEstatico.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net8.0/ref/16ConstrutorEstatico.dll

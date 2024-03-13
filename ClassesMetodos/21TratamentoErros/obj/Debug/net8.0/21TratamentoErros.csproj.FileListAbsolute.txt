@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/bin/Debug/net8.0/21TratamentoErros
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/bin/Debug/net8.0/21TratamentoErros.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/bin/Debug/net8.0/21TratamentoErros.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/bin/Debug/net8.0/21TratamentoErros.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/bin/Debug/net8.0/21TratamentoErros.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/refint/21TratamentoErros.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/21TratamentoErros.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/21TratamentoErros/obj/Debug/net8.0/ref/21TratamentoErros.dll

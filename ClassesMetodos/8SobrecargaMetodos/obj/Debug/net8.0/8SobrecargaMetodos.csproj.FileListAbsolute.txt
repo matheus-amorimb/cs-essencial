@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/bin/Debug/net8.0/8SobrecargaMetodos
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/bin/Debug/net8.0/8SobrecargaMetodos.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/bin/Debug/net8.0/8SobrecargaMetodos.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/bin/Debug/net8.0/8SobrecargaMetodos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/bin/Debug/net8.0/8SobrecargaMetodos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/refint/8SobrecargaMetodos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/8SobrecargaMetodos.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/8SobrecargaMetodos/obj/Debug/net8.0/ref/8SobrecargaMetodos.dll

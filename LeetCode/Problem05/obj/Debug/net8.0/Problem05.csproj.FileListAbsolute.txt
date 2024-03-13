@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/bin/Debug/net8.0/Problem05
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/bin/Debug/net8.0/Problem05.deps.json
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/bin/Debug/net8.0/Problem05.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/bin/Debug/net8.0/Problem05.dll
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/bin/Debug/net8.0/Problem05.pdb
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.dll
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/refint/Problem05.dll
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.pdb
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/Problem05.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/LeetCode/Problem05/obj/Debug/net8.0/ref/Problem05.dll

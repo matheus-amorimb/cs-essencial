@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/bin/Debug/net8.0/ExercicioArrayBidimensional
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/bin/Debug/net8.0/ExercicioArrayBidimensional.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/bin/Debug/net8.0/ExercicioArrayBidimensional.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/bin/Debug/net8.0/ExercicioArrayBidimensional.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/bin/Debug/net8.0/ExercicioArrayBidimensional.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/refint/ExercicioArrayBidimensional.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ExercicioArrayBidimensional.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/ExercicioArrayBidimensional/obj/Debug/net8.0/ref/ExercicioArrayBidimensional.dll

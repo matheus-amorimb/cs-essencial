@@ -1,0 +1,14 @@
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/bin/Debug/net8.0/POO
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/bin/Debug/net8.0/POO.deps.json
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/bin/Debug/net8.0/POO.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/bin/Debug/net8.0/POO.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/bin/Debug/net8.0/POO.pdb
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/POO.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/POO.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/POO.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/POO.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/refint/POO.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/POO.pdb
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/POO.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/POO/obj/Debug/net8.0/ref/POO.dll

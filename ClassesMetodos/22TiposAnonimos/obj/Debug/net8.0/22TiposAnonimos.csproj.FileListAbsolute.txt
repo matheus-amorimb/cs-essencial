@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/bin/Debug/net8.0/22TiposAnonimos
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/bin/Debug/net8.0/22TiposAnonimos.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/bin/Debug/net8.0/22TiposAnonimos.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/bin/Debug/net8.0/22TiposAnonimos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/bin/Debug/net8.0/22TiposAnonimos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/refint/22TiposAnonimos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/22TiposAnonimos.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/22TiposAnonimos/obj/Debug/net8.0/ref/22TiposAnonimos.dll

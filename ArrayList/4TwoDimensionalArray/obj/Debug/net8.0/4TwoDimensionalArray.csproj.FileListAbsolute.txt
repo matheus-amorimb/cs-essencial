@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/bin/Debug/net8.0/4TwoDimensionalArray
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/bin/Debug/net8.0/4TwoDimensionalArray.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/bin/Debug/net8.0/4TwoDimensionalArray.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/bin/Debug/net8.0/4TwoDimensionalArray.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/bin/Debug/net8.0/4TwoDimensionalArray.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/refint/4TwoDimensionalArray.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/4TwoDimensionalArray.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/4TwoDimensionalArray/obj/Debug/net8.0/ref/4TwoDimensionalArray.dll

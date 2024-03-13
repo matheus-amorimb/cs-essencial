@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/bin/Debug/net8.0/5Construtores
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/bin/Debug/net8.0/5Construtores.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/bin/Debug/net8.0/5Construtores.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/bin/Debug/net8.0/5Construtores.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/bin/Debug/net8.0/5Construtores.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/refint/5Construtores.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/5Construtores.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/5Construtores/obj/Debug/net8.0/ref/5Construtores.dll

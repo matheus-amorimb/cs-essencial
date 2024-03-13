@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/bin/Debug/net8.0/12ArgumentosNomeados
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/bin/Debug/net8.0/12ArgumentosNomeados.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/bin/Debug/net8.0/12ArgumentosNomeados.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/bin/Debug/net8.0/12ArgumentosNomeados.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/bin/Debug/net8.0/12ArgumentosNomeados.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/refint/12ArgumentosNomeados.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/12ArgumentosNomeados.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/12ArgumentosNomeados/obj/Debug/net8.0/ref/12ArgumentosNomeados.dll

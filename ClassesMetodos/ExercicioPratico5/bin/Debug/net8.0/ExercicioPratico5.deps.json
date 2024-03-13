@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicioPratico5/1.0.0": {
+        "runtime": {
+          "ExercicioPratico5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioPratico5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

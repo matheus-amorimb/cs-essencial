@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/bin/Debug/net8.0/7IEnumerable
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/bin/Debug/net8.0/7IEnumerable.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/bin/Debug/net8.0/7IEnumerable.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/bin/Debug/net8.0/7IEnumerable.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/bin/Debug/net8.0/7IEnumerable.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/refint/7IEnumerable.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/7IEnumerable.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/7IEnumerable/obj/Debug/net8.0/ref/7IEnumerable.dll

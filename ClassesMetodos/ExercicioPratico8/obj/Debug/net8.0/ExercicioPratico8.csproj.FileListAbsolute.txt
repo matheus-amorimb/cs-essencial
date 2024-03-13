@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/bin/Debug/net8.0/ExercicioPratico8
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/bin/Debug/net8.0/ExercicioPratico8.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/bin/Debug/net8.0/ExercicioPratico8.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/bin/Debug/net8.0/ExercicioPratico8.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/bin/Debug/net8.0/ExercicioPratico8.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/refint/ExercicioPratico8.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ExercicioPratico8.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/ExercicioPratico8/obj/Debug/net8.0/ref/ExercicioPratico8.dll

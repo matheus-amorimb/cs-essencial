@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/bin/Debug/net8.0/14MetodosEstaticos
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/bin/Debug/net8.0/14MetodosEstaticos.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/bin/Debug/net8.0/14MetodosEstaticos.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/bin/Debug/net8.0/14MetodosEstaticos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/bin/Debug/net8.0/14MetodosEstaticos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/refint/14MetodosEstaticos.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/14MetodosEstaticos.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/14MetodosEstaticos/obj/Debug/net8.0/ref/14MetodosEstaticos.dll

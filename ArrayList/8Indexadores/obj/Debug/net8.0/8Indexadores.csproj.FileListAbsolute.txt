@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/bin/Debug/net8.0/8Indexadores
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/bin/Debug/net8.0/8Indexadores.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/bin/Debug/net8.0/8Indexadores.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/bin/Debug/net8.0/8Indexadores.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/bin/Debug/net8.0/8Indexadores.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/refint/8Indexadores.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/8Indexadores.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/8Indexadores/obj/Debug/net8.0/ref/8Indexadores.dll

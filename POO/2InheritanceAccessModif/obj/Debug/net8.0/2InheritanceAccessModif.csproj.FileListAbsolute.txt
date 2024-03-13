@@ -1,0 +1,14 @@
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/bin/Debug/net8.0/2InheritanceAccessModif
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/bin/Debug/net8.0/2InheritanceAccessModif.deps.json
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/bin/Debug/net8.0/2InheritanceAccessModif.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/bin/Debug/net8.0/2InheritanceAccessModif.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/bin/Debug/net8.0/2InheritanceAccessModif.pdb
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/2InheritanceAccessModif.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/2InheritanceAccessModif.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/2InheritanceAccessModif.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/2InheritanceAccessModif.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/2InheritanceAccessModif.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/refint/2InheritanceAccessModif.dll
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/2InheritanceAccessModif.pdb
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/2InheritanceAccessModif.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/POO/2InheritanceAccessModif/obj/Debug/net8.0/ref/2InheritanceAccessModif.dll

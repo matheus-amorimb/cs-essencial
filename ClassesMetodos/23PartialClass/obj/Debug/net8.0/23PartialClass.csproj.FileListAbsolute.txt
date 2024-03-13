@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/bin/Debug/net8.0/23PartialClass
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/bin/Debug/net8.0/23PartialClass.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/bin/Debug/net8.0/23PartialClass.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/bin/Debug/net8.0/23PartialClass.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/bin/Debug/net8.0/23PartialClass.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/refint/23PartialClass.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/23PartialClass.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/23PartialClass/obj/Debug/net8.0/ref/23PartialClass.dll

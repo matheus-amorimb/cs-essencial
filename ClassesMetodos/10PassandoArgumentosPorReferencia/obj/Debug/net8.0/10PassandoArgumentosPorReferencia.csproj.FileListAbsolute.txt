@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/bin/Debug/net8.0/10PassandoArgumentosPorReferencia
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/bin/Debug/net8.0/10PassandoArgumentosPorReferencia.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/bin/Debug/net8.0/10PassandoArgumentosPorReferencia.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/bin/Debug/net8.0/10PassandoArgumentosPorReferencia.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/bin/Debug/net8.0/10PassandoArgumentosPorReferencia.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/refint/10PassandoArgumentosPorReferencia.dll
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.pdb
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/10PassandoArgumentosPorReferencia.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ClassesMetodos/10PassandoArgumentosPorReferencia/obj/Debug/net8.0/ref/10PassandoArgumentosPorReferencia.dll

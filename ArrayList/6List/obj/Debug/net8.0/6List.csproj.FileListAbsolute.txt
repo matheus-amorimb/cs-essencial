@@ -1,0 +1,15 @@
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/bin/Debug/net8.0/6List
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/bin/Debug/net8.0/6List.deps.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/bin/Debug/net8.0/6List.runtimeconfig.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/bin/Debug/net8.0/6List.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/bin/Debug/net8.0/6List.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.AssemblyInfoInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.AssemblyInfo.cs
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.csproj.CoreCompileInputs.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.sourcelink.json
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/refint/6List.dll
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.pdb
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/6List.genruntimeconfig.cache
+/home/matheus/matheus/code/cs/cs-studies/ArrayList/6List/obj/Debug/net8.0/ref/6List.dll
