@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5InheritanceNew", "5Inherit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6InheritanceVirtualOverride", "6InheritanceVirtualOverride\6InheritanceVirtualOverride.csproj", "{654A5C2C-0C80-4DDC-9961-E620FE12FD94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7InheritanceSealed", "7InheritanceSealed\7InheritanceSealed.csproj", "{8E713D6B-BC0C-485F-959B-8933B2A74E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseInheritance", "ExerciseInheritance\ExerciseInheritance.csproj", "{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{654A5C2C-0C80-4DDC-9961-E620FE12FD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654A5C2C-0C80-4DDC-9961-E620FE12FD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654A5C2C-0C80-4DDC-9961-E620FE12FD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E713D6B-BC0C-485F-959B-8933B2A74E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E713D6B-BC0C-485F-959B-8933B2A74E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E713D6B-BC0C-485F-959B-8933B2A74E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E713D6B-BC0C-485F-959B-8933B2A74E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
