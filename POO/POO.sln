@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4D3FF533-102F-4E62-931C-ECBD0DB02838}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2InheritanceAccessModif", "2InheritanceAccessModif\2InheritanceAccessModif.csproj", "{2F29943C-86DA-4BA2-9553-6DA86094A117}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3InheritanceConstructor", "3InheritanceConstructor\3InheritanceConstructor.csproj", "{D1D679BE-00D6-4497-9397-FA9EEF9424D9}"
@@ -16,16 +14,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7InheritanceSealed", "7Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseInheritance", "ExerciseInheritance\ExerciseInheritance.csproj", "{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8InheritanceTypes", "8InheritanceTypes\8InheritanceTypes.csproj", "{D6C389CC-9CF5-49E7-83D6-8A5C2364E840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D3FF533-102F-4E62-931C-ECBD0DB02838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D3FF533-102F-4E62-931C-ECBD0DB02838}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D3FF533-102F-4E62-931C-ECBD0DB02838}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D3FF533-102F-4E62-931C-ECBD0DB02838}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2F29943C-86DA-4BA2-9553-6DA86094A117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2F29943C-86DA-4BA2-9553-6DA86094A117}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F29943C-86DA-4BA2-9553-6DA86094A117}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -54,5 +50,9 @@ Global
 		{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEA14F9-9B16-4B00-950D-9697F1F3ADA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C389CC-9CF5-49E7-83D6-8A5C2364E840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C389CC-9CF5-49E7-83D6-8A5C2364E840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C389CC-9CF5-49E7-83D6-8A5C2364E840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C389CC-9CF5-49E7-83D6-8A5C2364E840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
