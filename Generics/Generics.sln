@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02GetHashCodeEquals", "02Ge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise02_GetHashCodeEquals", "Exercise02_GetHashCodeEquals\Exercise02_GetHashCodeEquals.csproj", "{B3647B17-5C69-4542-9719-9E433E6756F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Dictionary", "03Dictionary\03Dictionary.csproj", "{F1AB07A1-EBA5-4415-81CD-754D10D71CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise03_Dictionary", "Exercise03_Dictionary\Exercise03_Dictionary.csproj", "{17519085-9654-4149-8644-84162DFC5FC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{B3647B17-5C69-4542-9719-9E433E6756F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3647B17-5C69-4542-9719-9E433E6756F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3647B17-5C69-4542-9719-9E433E6756F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1AB07A1-EBA5-4415-81CD-754D10D71CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AB07A1-EBA5-4415-81CD-754D10D71CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AB07A1-EBA5-4415-81CD-754D10D71CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AB07A1-EBA5-4415-81CD-754D10D71CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17519085-9654-4149-8644-84162DFC5FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17519085-9654-4149-8644-84162DFC5FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17519085-9654-4149-8644-84162DFC5FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17519085-9654-4149-8644-84162DFC5FC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
