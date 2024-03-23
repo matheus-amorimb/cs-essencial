@@ -4,7 +4,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Generics", "01Generics\01Generics.csproj", "{8AE96DAA-B624-41CA-80E3-59748DBB1229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01", "Exercise01\Exercise01.csproj", "{4AD7131F-2C58-4B2F-B4B0-1B277EF149FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01_Generics", "Exercise01_Generics\Exercise01_Generics.csproj", "{4AD7131F-2C58-4B2F-B4B0-1B277EF149FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02GetHashCodeEquals", "02GetHashCodeEquals\02GetHashCodeEquals.csproj", "{A02BFE7A-51DE-4FAD-8D86-FC60A6FD3F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise02_GetHashCodeEquals", "Exercise02_GetHashCodeEquals\Exercise02_GetHashCodeEquals.csproj", "{B3647B17-5C69-4542-9719-9E433E6756F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +28,13 @@ Global
 		{4AD7131F-2C58-4B2F-B4B0-1B277EF149FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD7131F-2C58-4B2F-B4B0-1B277EF149FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD7131F-2C58-4B2F-B4B0-1B277EF149FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02BFE7A-51DE-4FAD-8D86-FC60A6FD3F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02BFE7A-51DE-4FAD-8D86-FC60A6FD3F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02BFE7A-51DE-4FAD-8D86-FC60A6FD3F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02BFE7A-51DE-4FAD-8D86-FC60A6FD3F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3647B17-5C69-4542-9719-9E433E6756F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3647B17-5C69-4542-9719-9E433E6756F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3647B17-5C69-4542-9719-9E433E6756F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3647B17-5C69-4542-9719-9E433E6756F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
