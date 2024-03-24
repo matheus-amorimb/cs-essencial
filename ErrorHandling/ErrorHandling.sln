@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "ErrorHandling\ErrorHandling.csproj", "{79674FAB-C577-4CDA-9A6A-8B30D0B49BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01TryCatchFinally", "01TryCatchFinally\01TryCatchFinally.csproj", "{F5DFBC2D-046B-4A01-A225-36A1AB2CF32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79674FAB-C577-4CDA-9A6A-8B30D0B49BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79674FAB-C577-4CDA-9A6A-8B30D0B49BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79674FAB-C577-4CDA-9A6A-8B30D0B49BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79674FAB-C577-4CDA-9A6A-8B30D0B49BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DFBC2D-046B-4A01-A225-36A1AB2CF32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DFBC2D-046B-4A01-A225-36A1AB2CF32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DFBC2D-046B-4A01-A225-36A1AB2CF32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DFBC2D-046B-4A01-A225-36A1AB2CF32E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
