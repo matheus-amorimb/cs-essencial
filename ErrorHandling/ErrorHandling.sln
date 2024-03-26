@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ThrowException", "02Throw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03FilterExceptions", "03FilterExceptions\03FilterExceptions.csproj", "{21A939F3-97FC-421F-A6EE-D6D68256C776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseErrorHandling", "ExerciseErrorHandling\ExerciseErrorHandling.csproj", "{8700C4A7-C44E-40AD-BC8B-5D9641E48848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{21A939F3-97FC-421F-A6EE-D6D68256C776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A939F3-97FC-421F-A6EE-D6D68256C776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A939F3-97FC-421F-A6EE-D6D68256C776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8700C4A7-C44E-40AD-BC8B-5D9641E48848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8700C4A7-C44E-40AD-BC8B-5D9641E48848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8700C4A7-C44E-40AD-BC8B-5D9641E48848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8700C4A7-C44E-40AD-BC8B-5D9641E48848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
