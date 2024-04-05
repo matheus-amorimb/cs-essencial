@@ -4,7 +4,7 @@ List<Person> persons = new List<Person>()
 {
     new Person("Alice", 12),
     new Person("Bob", 17),
-    new Person("Charlie", 40),
+    new Person("Charlie", 100),
     new Person("Frank", 42),
     new Person("Grace", 33)
 };
@@ -29,3 +29,13 @@ foreach (Person person in personsOverEighteen)
 {
     Console.WriteLine($"Name: {person.Name}, Age: {person.Age}");
 }
+
+Console.WriteLine("\n==================================================");
+Console.WriteLine("Oldest person");
+Console.WriteLine("==================================================");
+
+Func<List<Person>, Person> oldestPersons =
+    persons => persons.MaxBy(person => person.Age);
+
+
+Console.WriteLine($"Name: {oldestPersons(persons).Name}, Age: {oldestPersons(persons).Age}");
