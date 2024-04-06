@@ -12,4 +12,6 @@ using (FileStream stream = new FileStream(
            FileAccess.ReadWrite))
 {
     JsonSerializer.Serialize(stream, student);
+    
+    
 }
