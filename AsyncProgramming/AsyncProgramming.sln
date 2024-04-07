@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ValueTask", "02ValueTask\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TaskCancellation", "03TaskCancellation\03TaskCancellation.csproj", "{5CF82709-5C74-4266-AC65-421385BC233B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04TaskCancellationTimeout", "04TaskCancellationTimeout\04TaskCancellationTimeout.csproj", "{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5CF82709-5C74-4266-AC65-421385BC233B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF82709-5C74-4266-AC65-421385BC233B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF82709-5C74-4266-AC65-421385BC233B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
