@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TaskCancellation", "03Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04TaskCancellationTimeout", "04TaskCancellationTimeout\04TaskCancellationTimeout.csproj", "{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ErrorHandling", "05ErrorHandling\05ErrorHandling.csproj", "{B8E97DCF-F920-42D8-BF9B-E57D1A61C8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06MultipleExceptions", "06MultipleExceptions\06MultipleExceptions.csproj", "{D34429E4-3215-4443-A9DB-258FAA988125}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92E7A66D-6567-4E5E-9B06-965F3AF9C6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E97DCF-F920-42D8-BF9B-E57D1A61C8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E97DCF-F920-42D8-BF9B-E57D1A61C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E97DCF-F920-42D8-BF9B-E57D1A61C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E97DCF-F920-42D8-BF9B-E57D1A61C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34429E4-3215-4443-A9DB-258FAA988125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34429E4-3215-4443-A9DB-258FAA988125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34429E4-3215-4443-A9DB-258FAA988125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34429E4-3215-4443-A9DB-258FAA988125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
