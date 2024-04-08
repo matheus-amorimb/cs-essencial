@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseAsync", "ExerciseAs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07AsyncStream", "07AsyncStream\07AsyncStream.csproj", "{EC5F71B3-BA50-4292-A929-3981F8301FF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Semaphores", "08Semaphores\08Semaphores.csproj", "{03CCE535-74B3-4210-81CA-AF8FED4F54DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{EC5F71B3-BA50-4292-A929-3981F8301FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC5F71B3-BA50-4292-A929-3981F8301FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC5F71B3-BA50-4292-A929-3981F8301FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CCE535-74B3-4210-81CA-AF8FED4F54DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CCE535-74B3-4210-81CA-AF8FED4F54DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CCE535-74B3-4210-81CA-AF8FED4F54DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CCE535-74B3-4210-81CA-AF8FED4F54DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
