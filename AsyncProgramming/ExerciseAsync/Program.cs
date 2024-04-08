@@ -4,7 +4,7 @@ await DownloadFileAsync(url, pathToSave);
 
 static async Task DownloadFileAsync(string url, string pathToSave)
 {
-    var secTime = 10;
+    var secTime = 1;
     var miliTime = TimeSpan.FromSeconds(secTime);
     CancellationTokenSource cancellationTokenSource = new CancellationTokenSource(miliTime);
     
