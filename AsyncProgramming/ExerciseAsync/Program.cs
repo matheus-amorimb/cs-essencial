@@ -1,18 +1,27 @@
-﻿
+﻿var url = "https://macoratti.net/dados/poesia.txt";
+var pathToSave = "/home/matheus/matheus-dev/code/cs/cs-fundamentals/AsyncProgramming/ExerciseAsync/Download/file.txt";
+await DownloadFileAsync(url, pathToSave);
 
-static async Task DownloadFile()
+static async Task DownloadFileAsync(string url, string pathToSave)
 {
     var secTime = 10;
     var miliTime = TimeSpan.FromSeconds(secTime);
     CancellationTokenSource cancellationTokenSource = new CancellationTokenSource(miliTime);
     
-    var url = "";
     HttpClient httpClient = new HttpClient();
 
     try
     {
-        var response = httpClient.GetAsync(url, cancellationTokenSource.Token);
-        await response;
+        HttpResponseMessage response = await httpClient.GetAsync(url, 
+            cancellationTokenSource.Token);
+        string content = await response.Content.ReadAsStringAsync();
+
+        await using (StreamWriter streamWriter = new StreamWriter(pathToSave))
+        {
+            streamWriter.Write(content);
+        }
+        
+        Console.WriteLine("Download completed successfully.");
     }
     catch (OperationCanceledException e)
     {
